@@ -3,9 +3,11 @@
 
 ## A few phases to the program
 
-- Read locations from a file:  Excel, text, or some other source
+- Read locations from a file:
+  - Excel, 
+  - text, or
+  - some other source
 - Plot them on a google map
-
 - Start a trip
 - Click on each destination
 - Delete if you change your mind
